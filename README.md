@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👨‍💻 Currently working on Personal_Portfolio<br>✍️ Currently learning Data Science<br>📧 Reach me : surajkumarsah2060@gmail.com<br>⭐ I'm looking to Contribute in Open Source Projects<br><br>
+👨‍💻 Currently working on Personal Portfolio<br>✍️ Currently learning Full Stack Web Development<br>📧 Reach me : surajkumarsah2060@gmail.com<br>⭐ I'm looking to Contribute in Open Source Projects<br><br>
 
 
 
